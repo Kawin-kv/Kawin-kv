@@ -20,16 +20,7 @@ I'm a Computer Science Engineering student at Saveetha Engineering College, pass
 - **Core Subjects:** Data Structures, Computer Networks, Compiler Design
 - **Tools:** Git, GitHub, VS Code, Google Colab
 
-### 🚀 Projects
 
-**1. RoadSOS**
-- An emergency assistance project focused on road safety.
-- Status: Under Development.
-
-**2. CUDA Vector Summation**
-- Explored GPU-based parallel vector addition using CUDA.
-- Technologies: C, CUDA, Google Colab.
-- Status: Completed.
 
 ### 📚 Currently Learning
 
@@ -40,8 +31,9 @@ I'm a Computer Science Engineering student at Saveetha Engineering College, pass
 
 ### 🌐 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- GitHub: YOUR_GITHUB_PROFILE_URL
+- LinkedIn: https://www.linkedin.com/in/kawin-k-v-17061937b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+- Email : kawinkannaiyan5@gmail.com
 
 ---
 ⭐ Always learning, building, and improving!
